@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppMenus</string>
+    <string name="menuAbout">Acerca de ...</string>
+    <string name="menuSetting">Configuración</string>
+    <string name="menuFile">Archivo</string>
+    <string name="menuOpen">Abrir</string>
+    <string name="menuSave">Salvar</string>
+    <string name="sAbout">Has seleccionado about</string>
+    <string name="sSetting">Has seleccionado settings</string>
+    <string name="sFile">Has seleccionado File</string>
+    <string name="sOpen">Has seleccionado Abrir</string>
+    <string name="sSave">Has seleccionado Salvar</string>
+    <string name="texto">Hola</string>
+</resources>
